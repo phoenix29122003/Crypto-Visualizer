@@ -14,3 +14,10 @@
 
 
 • There are individual pages for each stock, presenting the analysis for day wise, weekly, monthly, and yearly stock price spans.
+
+
+Here are some screenshot of the project
+
+
+
+![alt text]([http://url/to/img.png](https://drive.google.com/file/d/1gTfOCXfqgOjRJqdmz-RZJFNzUNhmp7Pb/view?usp=drive_link))
